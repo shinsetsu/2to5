@@ -1,6 +1,6 @@
 ﻿  Start-Process "chrome.exe" "	https://localhost:1999	"
 
-	
+
   #AWS server access in a tab...
 		#start-process "chrome.exe" "https://us-east-2.console.aws.amazon.com/ec2/v2/home?region=us-east-2#",'--profile-directory="Default"'
 
