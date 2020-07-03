@@ -51,8 +51,6 @@ namespace _shLib
 			//services.Configure<RazorPagesOptions>(options => options.RootDirectory = "/");
 
 
-
-
 			//WebHost = Configuration["WebRoot"];
 			//if (string.IsNullOrEmpty(WebRoot))
 			//	WebRoot = Environment.CurrentDirectory;
