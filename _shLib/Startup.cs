@@ -85,7 +85,6 @@ namespace _shLib
 			app.UseStaticFiles();
 
 			app.UseRouting();
-
 			app.UseAuthorization();
 
 			app.UseEndpoints(endpoints =>
