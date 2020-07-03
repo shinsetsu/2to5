@@ -33,3 +33,4 @@ D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.dll
 D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.pdb
 D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.genruntimeconfig.cache
 D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.csproj.CopyComplete
+D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.csprojAssemblyReference.cache
