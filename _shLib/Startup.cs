@@ -5,7 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -22,15 +24,26 @@ namespace _shLib
 		// This method gets called by the runtime. Use this method to add services to the container.
 		public void ConfigureServices(IServiceCollection services)
 		{
-			services.AddLiveReload(config =>
-			{
-				// optional - use config instead
-				//config.LiveReloadEnabled = true;
-				//config.FolderToMonitor = Path.GetFullname(Path.Combine(Env.ContentRootPath,"..")) ;
-			});
+
+
+			//services.AddLiveReload(config =>
+			//{
+			//	// optional - use config instead
+			//	//config.LiveReloadEnabled = true;
+			//	//config.FolderToMonitor = Path.GetFullname(Path.Combine(Env.ContentRootPath,"..")) ;
+			//});
 
 			services.AddRazorPages();
+			//.WithRazorPagesRoot("/"); ;
 
+			services.AddMvc().AddRazorPagesOptions(options =>
+			{
+				//just to respect Microsoft way, it is better to have Pages folder
+				//to contains your folders.
+				options.RootDirectory = "/";
+			});
+
+			//services.Configure<RazorPagesOptions>(options => options.RootDirectory = "/");
 
 
 
@@ -69,7 +82,7 @@ namespace _shLib
 			{
 				//app.UseDeveloperExceptionPage();
 				//app.UseDatabaseErrorPage();
-				app.UseLiveReload();  //Install-Package WestWind.AspnetCore.LiveReload      ---  This only Require Dotnet.watch.run
+				//app.UseLiveReload();  //Install-Package WestWind.AspnetCore.LiveReload      ---  This only Require Dotnet.watch.run
 			}
 			else
 			{
@@ -77,6 +90,22 @@ namespace _shLib
 				// The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
 				app.UseHsts();
 			}
+
+
+			//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+			//■■■■■■■■■■■■  ADded from a reference, not changed or used yet... Calling
+			// Processing in the Chain of server here..  see below.....
+			//	- 
+			//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+			//■■■■■■■■■■//app.Run(async (context) =>
+			//■■■■■■■■■■//{
+			//■■■■■■■■■■//	await context.Response.WriteAsync("worker_Process_Name : "
+			//■■■■■■■■■■//		+ System.Diagnostics.Process.GetCurrentProcess().ProcessName);
+
+			//};
+			//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+
 
 			app.UseHttpsRedirection();
 			app.UseStaticFiles();

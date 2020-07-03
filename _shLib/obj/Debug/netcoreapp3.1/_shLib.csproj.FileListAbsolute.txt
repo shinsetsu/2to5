@@ -20,11 +20,6 @@ D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.RazorAssemblyInfo.cs
 D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.TagHelpers.input.cache
 D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.TagHelpers.output.cache
 D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.RazorCoreGenerate.cache
-D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
 D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.RazorTargetAssemblyInfo.cache
 D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.RazorTargetAssemblyInfo.cs
 D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.Views.pdb
@@ -34,3 +29,7 @@ D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\staticwebassets\_shLib.Stat
 D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.dll
 D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.pdb
 D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.genruntimeconfig.cache
+D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\Razor\Index.cshtml.g.cs
+D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\Razor\_Layout.cshtml.g.cs
+D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\Razor\_ViewImports.cshtml.g.cs
+D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\Razor\Error.cshtml.g.cs

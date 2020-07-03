@@ -6,11 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\" />
+    <PackageReference Include="Westwind.AspnetCore.LiveReload" Version="0.2.4.2" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Westwind.AspnetCore.LiveReload" Version="0.2.4.2" />
+    <Folder Include="Pages\" />
   </ItemGroup>
 
   <PropertyGroup Condition="'$(Configuration)' == 'Debug'">
