@@ -22,12 +22,12 @@ namespace _shLib
 		// This method gets called by the runtime. Use this method to add services to the container.
 		public void ConfigureServices(IServiceCollection services)
 		{
-			//services.AddLiveReload(config =>
-			//{
-			//	// optional - use config instead
-			//	//config.LiveReloadEnabled = true;
-			//	//config.FolderToMonitor = Path.GetFullname(Path.Combine(Env.ContentRootPath,"..")) ;
-			//});
+			services.AddLiveReload(config =>
+			{
+				// optional - use config instead
+				//config.LiveReloadEnabled = true;
+				//config.FolderToMonitor = Path.GetFullname(Path.Combine(Env.ContentRootPath,"..")) ;
+			});
 
 			services.AddRazorPages();
 
@@ -69,7 +69,7 @@ namespace _shLib
 			{
 				//app.UseDeveloperExceptionPage();
 				//app.UseDatabaseErrorPage();
-				//app.UseLiveReload();  //Install-Package WestWind.AspnetCore.LiveReload      ---  This only Require Dotnet.watch.run
+				app.UseLiveReload();  //Install-Package WestWind.AspnetCore.LiveReload      ---  This only Require Dotnet.watch.run
 			}
 			else
 			{
