@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e008e058-5d5e-4cb6-a427-79038edacff1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/config/applicationhost.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_shLib/obj/Debug/netcoreapp3.1/Razor/Error.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_shLib/obj/Debug/netcoreapp3.1/Razor/_ViewImports.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_shLib/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/_shLib/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/_shLib/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/_shLib/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/_shLib/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_shLib/Pages/Error.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/_shLib/Error.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_shLib/Pages/Error.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_shLib/Error.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_shLib/Pages/Index.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_shLib/Pages/Index.cshtml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_shLib/Pages/Shared/_Layout.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_shLib/Pages/Shared/_ValidationScriptsPartial.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_shLib/Pages/_ViewImports.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/_shLib/_ViewImports.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_shLib/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_shLib/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_shLib/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_shLib/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_shLib/_shLib.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/_shLib/_shLib.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_shLib/obj/Debug/netcoreapp3.1/_shLib.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_shLib/obj/Debug/netcoreapp3.1/_shLib.csproj.FileListAbsolute.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/_shLib/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_shLib/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_shLib/Error.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_shLib/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_shLib/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_shLib/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_shLib/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_shLib/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_shLib/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_shLib/Index.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_shLib/Startup.cs" />
+        <option value="$PROJECT_DIR$/_shLib/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eBRAWlYLMpeVGTWwce9LwfTSut" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile._shLib: IIS Express (1)">
+    <configuration name="_shLib" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/_shLib/_shLib.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="_shLib" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="_shLib: IIS Express (1)" type="LaunchSettings" factoryName=".NET Launch Settings Profile" temporary="true">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/_shLib/_shLib.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="_shLib: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/_shLib/_shLib.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Launch Settings Profile._shLib: IIS Express (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e008e058-5d5e-4cb6-a427-79038edacff1" name="Default Changelist" comment="" />
+      <created>1593792856649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593792856649</updated>
+      <workItem from="1593792860057" duration="339000" />
+      <workItem from="1593793224676" duration="37000" />
+      <workItem from="1593794014184" duration="493000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="596" y="254" key="#Notifications" timestamp="1593792899254">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="596" y="254" key="#Notifications/0.0.1463.783/2560.0.1536.824@0.0.1463.783" timestamp="1593792899254" />
+    <state width="1420" height="180" key="GridCell.Tab.0.bottom" timestamp="1593794510182">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="180" key="GridCell.Tab.0.bottom/0.0.1463.783/2560.0.1536.824@0.0.1463.783" timestamp="1593794510182" />
+    <state width="1420" height="180" key="GridCell.Tab.0.center" timestamp="1593794510182">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="180" key="GridCell.Tab.0.center/0.0.1463.783/2560.0.1536.824@0.0.1463.783" timestamp="1593794510182" />
+    <state width="1420" height="180" key="GridCell.Tab.0.left" timestamp="1593794510182">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="180" key="GridCell.Tab.0.left/0.0.1463.783/2560.0.1536.824@0.0.1463.783" timestamp="1593794510182" />
+    <state width="1420" height="180" key="GridCell.Tab.0.right" timestamp="1593794510182">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="180" key="GridCell.Tab.0.right/0.0.1463.783/2560.0.1536.824@0.0.1463.783" timestamp="1593794510182" />
+    <state x="241" y="36" key="SettingsEditor" timestamp="1593793195957">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="241" y="36" key="SettingsEditor/0.0.1463.783/2560.0.1536.824@0.0.1463.783" timestamp="1593793195957" />
+  </component>
+</project>
