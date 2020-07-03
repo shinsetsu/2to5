@@ -15,24 +15,21 @@ namespace _shLib
 {
 	public class Startup
 	{
-		public Startup(IConfiguration configuration)
-		{
-			Configuration = configuration;
-		}
+		public Startup(IConfiguration configuration) { Configuration = configuration; }
 
 		public IConfiguration Configuration { get; }
 
 		// This method gets called by the runtime. Use this method to add services to the container.
 		public void ConfigureServices(IServiceCollection services)
 		{
-			services.AddLiveReload(config =>
-			{
-				// optional - use config instead
-				//config.LiveReloadEnabled = true;
-				//config.FolderToMonitor = Path.GetFullname(Path.Combine(Env.ContentRootPath,"..")) ;
-			});
+			//services.AddLiveReload(config =>
+			//{
+			//	// optional - use config instead
+			//	//config.LiveReloadEnabled = true;
+			//	//config.FolderToMonitor = Path.GetFullname(Path.Combine(Env.ContentRootPath,"..")) ;
+			//});
 
-
+			services.AddRazorPages();
 
 
 
@@ -49,19 +46,19 @@ namespace _shLib
 
 			// alt+254 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 			// alt+254 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
-				//#if USE_RAZORPAGES
-				//if (UseRazor)
-				//{
-				//services.AddRazorPages(opt => { opt.RootDirectory = "/"; })
-				//.AddRazorRuntimeCompilation(
-				//opt =>
-				//{
-				//// This would be useful but it's READ-ONLY
-				//// opt.AdditionalReferencePaths = Path.Combine(WebRoot,"bin");
-				//opt.FileProviders.Add(new PhysicalFileProvider(WebRoot));
-				//});
-				//}
-				//#endif
+			//#if USE_RAZORPAGES
+			//if (UseRazor)
+			//{
+			//services.AddRazorPages(opt => { opt.RootDirectory = "/"; })
+			//.AddRazorRuntimeCompilation(
+			//opt =>
+			//{
+			//// This would be useful but it's READ-ONLY
+			//// opt.AdditionalReferencePaths = Path.Combine(WebRoot,"bin");
+			//opt.FileProviders.Add(new PhysicalFileProvider(WebRoot));
+			//});
+			//}
+			//#endif
 			// alt+254 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 			// alt+254 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 		}
@@ -72,7 +69,7 @@ namespace _shLib
 			{
 				//app.UseDeveloperExceptionPage();
 				//app.UseDatabaseErrorPage();
-				app.UseLiveReload();  //Install-Package WestWind.AspnetCore.LiveReload      ---  This only Require Dotnet.watch.run
+				//app.UseLiveReload();  //Install-Package WestWind.AspnetCore.LiveReload      ---  This only Require Dotnet.watch.run
 			}
 			else
 			{

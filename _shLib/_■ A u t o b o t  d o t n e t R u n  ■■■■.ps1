@@ -9,7 +9,7 @@
 		#		 $serverName -E          possible flag for opening and feeding config....
 
 
-  start-process "chrome.exe" "",'--profile-directory="Default"'
+  #####start-process "chrome.exe" "",'--profile-directory="Default"'
 dotnet watch run
 
 #set-ExecutionPolicy unrestricted
