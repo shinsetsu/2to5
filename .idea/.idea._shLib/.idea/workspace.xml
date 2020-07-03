@@ -21,21 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="e008e058-5d5e-4cb6-a427-79038edacff1" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/config/applicationhost.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_shLib/obj/Debug/netcoreapp3.1/Razor/Error.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_shLib/obj/Debug/netcoreapp3.1/Razor/_ViewImports.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_shLib/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea._shLib/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea._shLib/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea._shLib/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea._shLib/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/_shLib/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/_shLib/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/_shLib/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/_shLib/v16/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_shLib/Pages/Error.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/_shLib/Error.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_shLib/Pages/Error.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_shLib/Error.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_shLib/Pages/Index.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_shLib/Pages/Index.cshtml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_shLib/Pages/Shared/_Layout.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_shLib/Pages/Shared/_ValidationScriptsPartial.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_shLib/Pages/_ViewImports.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/_shLib/_ViewImports.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_shLib/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_shLib/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_shLib/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_shLib/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_shLib/_shLib.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/_shLib/_shLib.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_shLib/Pages/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/_shLib/Pages/Index.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_shLib/obj/Debug/netcoreapp3.1/_shLib.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_shLib/obj/Debug/netcoreapp3.1/_shLib.csproj.FileListAbsolute.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,21 +38,20 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/_shLib/Startup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_shLib/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_shLib/Error.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_shLib/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_shLib/Pages/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_shLib/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_shLib/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_shLib/Pages/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_shLib/Pages/Error.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_shLib/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_shLib/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_shLib/appsettings.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_shLib/Index.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/_shLib/Startup.cs" />
         <option value="$PROJECT_DIR$/_shLib/Program.cs" />
+        <option value="$PROJECT_DIR$/_shLib/Pages/Index.cshtml" />
       </list>
     </option>
   </component>
@@ -146,6 +135,7 @@
       <workItem from="1593792860057" duration="339000" />
       <workItem from="1593793224676" duration="37000" />
       <workItem from="1593794014184" duration="493000" />
+      <workItem from="1593794745437" duration="2240000" />
     </task>
     <servers />
   </component>
@@ -175,22 +165,26 @@
       <screen x="0" y="0" width="1463" height="783" />
     </state>
     <state x="596" y="254" key="#Notifications/0.0.1463.783/2560.0.1536.824@0.0.1463.783" timestamp="1593792899254" />
-    <state width="1420" height="180" key="GridCell.Tab.0.bottom" timestamp="1593794510182">
-      <screen x="0" y="0" width="1463" height="783" />
+    <state width="1649" height="174" key="GridCell.Tab.0.bottom" timestamp="1593799600526">
+      <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1420" height="180" key="GridCell.Tab.0.bottom/0.0.1463.783/2560.0.1536.824@0.0.1463.783" timestamp="1593794510182" />
-    <state width="1420" height="180" key="GridCell.Tab.0.center" timestamp="1593794510182">
-      <screen x="0" y="0" width="1463" height="783" />
+    <state width="1420" height="175" key="GridCell.Tab.0.bottom/0.0.1463.783/2560.0.1536.824@0.0.1463.783" timestamp="1593795833940" />
+    <state width="1649" height="174" key="GridCell.Tab.0.bottom/0.0.1707.920/2560.0.1536.824@0.0.1707.920" timestamp="1593799600526" />
+    <state width="1649" height="174" key="GridCell.Tab.0.center" timestamp="1593799600525">
+      <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1420" height="180" key="GridCell.Tab.0.center/0.0.1463.783/2560.0.1536.824@0.0.1463.783" timestamp="1593794510182" />
-    <state width="1420" height="180" key="GridCell.Tab.0.left" timestamp="1593794510182">
-      <screen x="0" y="0" width="1463" height="783" />
+    <state width="1420" height="175" key="GridCell.Tab.0.center/0.0.1463.783/2560.0.1536.824@0.0.1463.783" timestamp="1593795833940" />
+    <state width="1649" height="174" key="GridCell.Tab.0.center/0.0.1707.920/2560.0.1536.824@0.0.1707.920" timestamp="1593799600525" />
+    <state width="1649" height="174" key="GridCell.Tab.0.left" timestamp="1593799600525">
+      <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1420" height="180" key="GridCell.Tab.0.left/0.0.1463.783/2560.0.1536.824@0.0.1463.783" timestamp="1593794510182" />
-    <state width="1420" height="180" key="GridCell.Tab.0.right" timestamp="1593794510182">
-      <screen x="0" y="0" width="1463" height="783" />
+    <state width="1420" height="175" key="GridCell.Tab.0.left/0.0.1463.783/2560.0.1536.824@0.0.1463.783" timestamp="1593795833940" />
+    <state width="1649" height="174" key="GridCell.Tab.0.left/0.0.1707.920/2560.0.1536.824@0.0.1707.920" timestamp="1593799600525" />
+    <state width="1649" height="174" key="GridCell.Tab.0.right" timestamp="1593799600525">
+      <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1420" height="180" key="GridCell.Tab.0.right/0.0.1463.783/2560.0.1536.824@0.0.1463.783" timestamp="1593794510182" />
+    <state width="1420" height="175" key="GridCell.Tab.0.right/0.0.1463.783/2560.0.1536.824@0.0.1463.783" timestamp="1593795833940" />
+    <state width="1649" height="174" key="GridCell.Tab.0.right/0.0.1707.920/2560.0.1536.824@0.0.1707.920" timestamp="1593799600525" />
     <state x="241" y="36" key="SettingsEditor" timestamp="1593793195957">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
