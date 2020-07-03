@@ -11,8 +11,6 @@ D:\shinDownloads\2to5\_shLib\bin\Debug\netcoreapp3.1\_shLib.Views.dll
 D:\shinDownloads\2to5\_shLib\bin\Debug\netcoreapp3.1\_shLib.Views.pdb
 D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.AssemblyInfoInputs.cache
 D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.AssemblyInfo.cs
-D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.csproj.CoreCompileInputs.cache
-D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.MvcApplicationPartsAssemblyInfo.cache
 D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.RazorAssemblyInfo.cache
 D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.RazorAssemblyInfo.cs
 D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.TagHelpers.input.cache
@@ -33,3 +31,6 @@ D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.pdb
 D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.genruntimeconfig.cache
 D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.csproj.CopyComplete
 D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.csprojAssemblyReference.cache
+D:\shinDownloads\2to5\_shLib\bin\Debug\netcoreapp3.1\Westwind.AspnetCore.LiveReload.dll
+D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.csproj.CoreCompileInputs.cache
+D:\shinDownloads\2to5\_shLib\obj\Debug\netcoreapp3.1\_shLib.MvcApplicationPartsAssemblyInfo.cache
