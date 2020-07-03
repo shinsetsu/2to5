@@ -24,7 +24,13 @@ namespace _shLib
 		// This method gets called by the runtime. Use this method to add services to the container.
 		public void ConfigureServices(IServiceCollection services)
 		{
-
+			// ■■■■■■■■■■■■■■■■■■■■■■
+			//Simplicity?   edit to define root in this way again....
+			//// ■■■■■■■■■■■■■■■■■■■■■■
+			//string physicalWebRootPath = Server.MapPath("~/");
+			//
+			//return Content(physicalWebRootPath);
+			// ■■■■■■■■■■■■■■■■■■■■■■
 
 			//services.AddLiveReload(config =>
 			//{
@@ -33,15 +39,14 @@ namespace _shLib
 			//	//config.FolderToMonitor = Path.GetFullname(Path.Combine(Env.ContentRootPath,"..")) ;
 			//});
 
+			//services.AddRazorPages().AddRazorPagesOptions(options => { options.RootDirectory = "/"; });
 			services.AddRazorPages();
-			//.WithRazorPagesRoot("/"); ;
-
-			services.AddMvc().AddRazorPagesOptions(options =>
-			{
-				//just to respect Microsoft way, it is better to have Pages folder
-				//to contains your folders.
-				options.RootDirectory = "/";
-			});
+			//services.AddMvc().AddRazorPagesOptions(options =>
+			//{
+			//	//just to respect Microsoft way, it is better to have Pages folder
+			//	//to contains your folders.
+			//	options.RootDirectory = "/";
+			//});
 
 			//services.Configure<RazorPagesOptions>(options => options.RootDirectory = "/");
 
